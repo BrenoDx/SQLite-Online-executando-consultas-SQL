@@ -25,7 +25,7 @@ Converta a coluna data_string da tabela eventos, que está em formato de texto (
 
 Na tabela avaliacoes, classifique cada avaliação como 'Boa', 'Média', ou 'Ruim' com base na pontuação: 1-3 para 'Ruim', 4-7 para 'Média', e 8-10 para 'Boa'.   
 
-Altere o nome da coluna data_nasc para data_nascimento na tabela funcionarios e selecione todos os funcionários que nasceram após '1990-01-01'.   
+Altere o nome da coluna data_nasc para data_nascimento na tabela funcionarios e selecione todos os funcionários que nasceram após '1990-01-01'.      
 
 02-Mão na massa: gerenciamento escolar com banco de dados relacional   
 Agora que você já concluiu os seus estudos no curso SQLite Online: executando consultas SQL, chegou o momento de continuar a desenvolver o desafio, onde você pode realizar novas consultas para colocar em prática todos os conhecimentos adquiridos até o momento.   
